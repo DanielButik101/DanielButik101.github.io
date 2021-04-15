@@ -1,8 +1,9 @@
 /* Set height of body and the document to 100% */
 body, html {
-  height: 1100;
+  height: 2000;
   margin: 0;
   font-family: Arial;
+    zoom:80%;
 }
 /* Style tab links */
 .tablink {
@@ -196,6 +197,7 @@ body, html {
      top:600; 
 
 }
+background-image: url(images/bg.jpg);
 .g1{
      position: absolute;
     left: 400px;
